@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+header{
+    border-bottom: 5px solid rgba(152, 151, 151, 0.364);
+    height: 100px;
+}
+
+body{
+    margin: 0;
+}
+
+#imagen{
+    border: 1px solid red;
+}
+
+#ini{
+    border: 1px solid rgb(93, 0, 255);
+    text-align:center;
+    display: inline-block;
+    width: 350px;
+    height: 25px;
+    position:relative;
+    margin-left: 800px;
+    margin-top: 1px;
+}
