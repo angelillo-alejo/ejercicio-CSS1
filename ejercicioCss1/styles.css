@@ -5,7 +5,9 @@
 
 header{
     border-bottom: 5px solid rgba(152, 151, 151, 0.364);
-    height: 100px;
+    height: 130px;
+    
+    
 }
 
 body{
@@ -13,16 +15,31 @@ body{
 }
 
 #imagen{
-    border: 1px solid red;
+   
+}
+
+#image{
+    display: inline-block;
+}
+
+#issuu{
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 10px;
+    position:relative;
+    font-size: 50px;
+    text-align: center;
+    
+    width: 10px;
+    height: 15px;
 }
 
 #ini{
-    border: 1px solid rgb(93, 0, 255);
-    text-align:center;
+    text-align: center;
     display: inline-block;
     width: 350px;
-    height: 25px;
+    height: 20px;
     position:relative;
-    margin-left: 800px;
-    margin-top: 1px;
+    margin-left: 1100px;
+    margin-top: -99px;
 }
