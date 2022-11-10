@@ -40,6 +40,10 @@ body{
     margin-left: 1100px;
     margin-top: -99px;
 }
+#account{
+  display: block;
+  text-align: center;
+}
 
 /* Shared */
 .loginBtn {
