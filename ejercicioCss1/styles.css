@@ -16,9 +16,7 @@ body{
 
 
 
-#imagen{
-   
-}
+
 
 #issuu{
     display: inline-block;
@@ -105,6 +103,11 @@ body{
   .loginBtn--google:hover,
   .loginBtn--google:focus {
     background: #E74B37;
+  }
+
+  #togglePassword{
+    margin-left: -30px; 
+    cursor: pointer;
   }
 
 @import url('//fonts.googleapis.com/css?family=Roboto')
